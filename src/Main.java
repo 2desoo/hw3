@@ -1,13 +1,13 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Задание №1");
-        byte a = 4;
+        byte h = 4;
         short b = 9;
         int c = 14;
         long d = 26L;
         float e = 5.78f;
         double f = 13.65;
-        System.out.println("Значение переменной а, с типом byte равно " + a);
+        System.out.println("Значение переменной а, с типом byte равно " + h);
         System.out.println("Значение переменной b, с типом short равно " + b);
         System.out.println("Значение переменной c, с типом int равно " + c);
         System.out.println("Значение переменной d, с типом long равно " + d);
